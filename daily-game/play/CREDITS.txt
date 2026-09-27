@@ -1,0 +1,19 @@
+Daily Game - third-party assets
+
+"WW2 Low Poly Weapons Pack" by J.AkioHonda
+https://sketchfab.com/3d-models/ww2-low-poly-weapons-pack-4242e664ec1a489b99dc0d543f958915
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Used for the Thompson, PPSh-41, STG-44, M1 Garand and M1911 in the mystery box. Changes: re-textured
+(baked finishes), reoriented and exported to glTF for the game.
+
+"Animated Zombie" by Quaternius
+https://poly.pizza/m/jkrEvQZb8J
+Licensed under CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+Used for the zombies. Changes: recoloured per zombie type, re-centred, and given helmets.
+
+Sound effects (all CC0, public domain; thank you!):
+- Kenney (kenney.nl): Impact Sounds, Sci-fi Sounds, RPG Audio, Music Jingles
+- "Zombies Sound Pack" by artisticdude: https://opengameart.org/content/zombies-sound-pack
+- "Gun reload sounds" by SpringySpringo: https://opengameart.org/content/gun-reload-sounds
+
+Everything else (the mystery box, the Ray Gun, the levels) was made for this game.
